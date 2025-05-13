@@ -83,7 +83,7 @@ The system has been tested on various spoofing inputs, including:
 
 - 🖼️ **Printed photos**
 - 📱 **Screen videos**
-- 🎭 **Masked faces**
+- 📱 **Screen photos**
 
 All tests were performed under **varied lighting conditions** and showed **consistent and reliable results**.
 
